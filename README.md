@@ -1,6 +1,8 @@
 # flutter_drawer
 
-A new Flutter application.
+flutter_drawer demonstrates how to populate Navigation Drawer data. Drawer items are shown with a header pertaining to the group.
+
+<img src="./art/android_screenshot.png" width="300" height="534"/>
 
 ## Getting Started
 
